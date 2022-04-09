@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\jakub\IdeaProject\UTP Zadania\Zadanie 9\S20540_ASD_Projekt3_SzukanieNajdluzyszegoSlowa_Drzewa\.idea/dataSources/
+/dataSources.local.xml
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
+# Editor-based HTTP Client requests
+/httpRequests/
